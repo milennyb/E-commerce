@@ -6,4 +6,7 @@ import { Component } from '@angular/core';
   templateUrl: './carrinho.html',
   styleUrl: './carrinho.css',
 })
-export class Carrinho {}
+export class Carrinho {
+  //! logica de carrinho vira na proxima aula
+  //!por ora, apemas exibe a pagina carrinho
+}
